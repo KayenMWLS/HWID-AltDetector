@@ -10,8 +10,8 @@ from notifier import send_to_discord
 from gui import _show_result_dialog, request_user_consent, _windows_message_box
 
 WEBHOOK_URL = (
-    "https://discord.com/api/webhooks/1477763501203263509/"
-    "nbGpvKnro4yWgE4aotA3lLI5HOXxYK65vXSMOFpq9LhgG9tB89pH8-aQ6g4a-tb5lKtc"
+    ""
+    ""
 )
 
 
